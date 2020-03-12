@@ -1,0 +1,14 @@
+{
+  "name": "aula2",
+  "version": "1.0.0",
+  "description": "Projeto para a aula 5 de DBF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fillipe Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^3.1.1"
+  }
+}
